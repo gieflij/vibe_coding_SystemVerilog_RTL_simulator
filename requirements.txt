@@ -1,0 +1,10 @@
+# RTL Verilog to SystemVerilog Converter 웹앱 의존성 라이브러리 목록
+
+# Streamlit 웹 앱 프레임워크
+streamlit>=1.35.0
+
+# Google GenAI 최신 SDK (Gemini API 연동용)
+google-genai>=0.1.1
+
+# 이미지 및 파일 처리 지원
+Pillow>=10.0.0
